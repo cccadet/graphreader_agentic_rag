@@ -91,7 +91,7 @@ class Importer:
     
 
 
-    async def process_single_file(self, filepath: str, filename: str, separator: List = []) -> None:
+    async def process_single_file(self, filepath: str, filename: str, separator = []) -> None:
         try:
             with open(os.path.join(filepath, filename), "r") as file:
                 text = file.read()
@@ -101,7 +101,7 @@ class Importer:
         except Exception as e:
             print(f"Error processing {filename}: {str(e)}")
 
-    async def process_all_files(self, filepath: str, separator: List = []) -> None:
+    async def process_all_files(self, filepath: str, separator = []) -> None:
         files = os.listdir(filepath)
         tasks: List[asyncio.Task] = []
         
