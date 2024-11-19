@@ -1,0 +1,313 @@
+The western honey bee or European honey bee (Apis mellifera) is the most common of the 7–12 species of honey bees worldwide.[3][4] The genus name Apis is Latin for 'bee', and mellifera is the Latin for 'honey-bearing' or 'honey-carrying', referring to the species' production of honey.[5]
+
+Like all honey bee species, the western honey bee is eusocial, creating colonies with a single fertile female (or "queen"), many normally non-reproductive females or "workers", and a small proportion of fertile males or "drones". Individual colonies can house tens of thousands of bees. Colony activities are organized by complex communication between individuals, through both pheromones and the dance language.
+
+The western honey bee was one of the first domesticated insects, and it is the primary species maintained by beekeepers to this day for both its honey production and pollination activities. With human assistance, the western honey bee now occupies every continent except Antarctica. Western honey bees are threatened by pests and diseases, especially the Varroa mite and colony collapse disorder. There are indications that the species is rare, if not extinct in the wild in Europe and as of 2014, the western honey bee was assessed as "Data Deficient" on the IUCN Red List. Numerous studies indicate that the species has undergone significant declines in Europe; however, it is not clear if they refer to population reduction of wild or managed colonies. Further research is required to enable differentiation between wild and non-wild colonies in order to determine the conservation status of the species in the wild, meaning self sustaining, without treatments or management.[6]
+
+Western honey bees are an important model organism in scientific studies, particularly in the fields of social evolution, learning, and memory; they are also used in studies of pesticide toxicity, especially via pollen, to assess non-target impacts of commercial pesticides.
+
+----------------------
+
+## Distribution and habitat
+
+The visualization shows the historical introductions of western honey bees, Apis mellifera, into the United States. In particular, the visualization takes into account four categories of data. The first is the country from which the bees were exported (on the left side of the diagram), then the state into which the bees were imported (on the right side of the diagram), the year in which the shipment took place (represented with a black dot aligned to the relative year on the bottom), and the subspecies of Apis mellifera shipped (represented with the respective color in the legend). A legend included in the visualization helps understand the meaning of the graphic elements.
+Visualization showing the various importations of the western honey bee into the United States.[7]
+
+The western honey bee can be found on every continent except Antarctica.[8] The species is believed to have originated in Africa[9] or Asia,[10] and it spread naturally through Africa, the Middle East and Europe.[8] Humans are responsible for its considerable additional range, introducing European subspecies into North America (early 1600s),[11] South America, Australia, New Zealand, and eastern Asia.[12]
+----------------------
+
+## Subspecies
+
+Main article: List of Apis mellifera subspecies
+
+Western honey bees adapted to the local environments as they spread geographically.[9] These adaptations include synchronizing colony cycles to the timing of local flower resources, forming a winter cluster in colder climates, migratory swarming in Africa, and enhanced foraging behavior in desert areas. All together, these variations resulted in 31 recognized subspecies.[3]
+
+Previously it was believed that the various subspecies were all cross-fertile, but in 2013 it was found that the A. m. mellifera queens do not mate with non-A. m. mellifera drones.[13]
+
+The subspecies are divided into four major branches, based on work by Ruttner and confirmed by mitochondrial DNA analysis. African subspecies belong to branch A, northwestern European subspecies branch M, southwestern European subspecies branch C and Middle Eastern subspecies branch O.[citation needed]
+
+----------------------
+
+## Life cycle
+	
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (December 2017) (Learn how and when to remove this message)
+Main article: Honey bee life cycle
+Colony life cycle
+Swarm of honey bees on a wooden fence rail
+A bee swarm. Bees are unaggressive in this state, since they have no hive to protect.
+
+Unlike most other bee species, western honey bees have perennial colonies which persist year after year. Because of this high degree of sociality and permanence, western honey bee colonies can be considered superorganisms. This means that reproduction of the colony, rather than individual bees, is the biologically significant unit. Western honey bee colonies reproduce through a process called "swarming".[14]
+
+In most climates, western honey bees swarm in the spring and early summer, when there is an abundance of blooming flowers from which to collect nectar and pollen. In response to these favorable conditions, the hive creates one to two dozen new queens. Just as the pupal stages of these "daughter queens" are nearly complete, the old queen and approximately two-thirds of the adult workers leave the colony in a swarm, traveling some distance to find a new location suitable for building a hive (e.g., a hollow tree trunk). In the old colony, the daughter queens often start "piping", just prior to emerging as adults,[15] and, when the daughter queens eventually emerge, they fight each other until only one remains; the survivor then becomes the new queen. If one of the sisters emerges before the others, she may kill her siblings while they are still pupae, before they have a chance to emerge as adults.
+
+Once she has dispatched all of her rivals, the new queen, the only fertile female, lays all the eggs for the old colony, which her mother has left. Virgin females are able to lay eggs, which develop into males (a trait found in bees, wasps, and ants because of haplodiploidy). However, she requires a mate to produce female offspring, which comprise 90% or more of bees in the colony at any given time. Thus, the new queen goes on one or more nuptial flights, each time mating with 1–17 drones.[16] Once she has finished mating, usually within two weeks of emerging, she remains in the hive, playing the primary role of laying eggs.
+
+Throughout the rest of the growing season, the colony produces many workers, who gather pollen and nectar as cold-season food; the average population of a healthy hive in midsummer may be as high as 40,000 to 80,000 bees. Nectar from flowers is processed by worker bees, who evaporate it until the moisture content is low enough to discourage mold, transforming it into honey, which can then be capped over with wax and stored almost indefinitely. In the temperate climates to which western honey bees are adapted, the bees gather in their hive and wait out the cold season, during which the queen may stop laying. During this time, activity is slow, and the colony consumes its stores of honey used for metabolic heat production in the cold season. In mid- through late winter, the queen starts laying again. This is probably triggered by day length. Depending on the subspecies, new queens (and swarms) may be produced every year, or less frequently, depending on local environmental conditions and a number of characteristics inside the hive.
+Individual bee life cycle
+Full (with larvae) and empty (with eggs) honeycomb cells
+Larvae (left) and eggs (right)
+
+Like other insects that undergo complete metamorphosis, the western honey bee has four distinct life stages: egg, larva, pupa and adult. The complex social structure of western honey bee hives means that all of these life stages occur simultaneously throughout much of the year. The queen deposits a single egg into each cell of a honeycomb prepared by worker bees. The egg hatches into a legless, eyeless larva fed by "nurse" bees (worker bees who maintain the interior of the colony). After about a week, the larva is sealed in its cell by the nurse bees and begins its pupal stage. After another week, it emerges as an adult bee. It is common for defined regions of the comb to be filled with young bees (also called "brood"), while others are filled with pollen and honey stores.
+
+Worker bees secrete the wax used to build the hive, clean, maintain and guard it, raise the young and forage for nectar and pollen; the nature of the worker's role varies with age. For the first 10 days of their lives, worker bees clean the hive and feed the larvae. After this, they begin building comb cells. On days 16 through 20, workers receive nectar and pollen from older workers and store it. After the 20th day, a worker leaves the hive and spends the remainder of its life as a forager. Although worker bees are usually infertile females, when some subspecies are stressed they may lay fertile eggs. Since workers are not fully sexually developed, they do not mate with drones and thus can only produce haploid (male) offspring.
+
+Queens and workers have a modified ovipositor called a stinger, with which they defend the hive. Unlike those of bees of any other genus and of the queens of their species, the stinger of worker western honey bees is barbed. Contrary to popular belief, a bee does not always die soon after stinging; this misconception is based on the fact that a bee will usually die after stinging a human or other mammals. The stinger and its venom sac, with musculature and a ganglion allowing them to continue delivering venom after they are detached, are designed to pull free of the body when they lodge. This apparatus (including barbs on the stinger) is thought to have evolved in response to predation by vertebrates, since the barbs do not function (and the stinger apparatus does not detach) unless the stinger is embedded in elastic material. The barbs do not always "catch", so a bee may occasionally pull its stinger free and fly off unharmed (or sting again).[14]
+
+Although the average lifespan of a queen in most subspecies is three to five years, reports from the German honey bee subspecies (A. m. mellifera) previously used for beekeeping indicate that a queen can live up to eight years.[17] Because a queen's store of sperm is depleted near the end of her life, she begins laying more unfertilised eggs; for this reason, beekeepers often replace queens every year or two.
+
+The lifespan of workers varies considerably over the year in regions with long winters. Workers born in spring and summer work hard, and live only a few weeks, but those born in autumn remain inside for several months as the colony clusters. On average during the year, about 1% of a colony's worker bees die naturally per day.[18] Except for the queen, all of a colony's workers are replaced about every four months.
+----------------------
+
+## Social caste
+
+Western honey bee on a lavender blossom
+
+Behavioral and physiological differences between castes and subcastes arise from phenotypic plasticity, which relies on gene expression rather than heritable genotypic differences.[19][20]
+Queens
+Main article: Queen bee
+
+The queen bee is a fertile female, who, unlike workers (which are also female), has a fully developed reproductive system. She is larger than her workers, and has a characteristic rounder, longer abdomen. A female egg can become either a queen or a worker bee. Workers and queen larvae are both fed royal jelly, which is high in protein and low in flavonoids, during the first three days. After that, larval prospective workers are switched to a diet of mixed pollen and nectar (often called "bee bread"), while prospective queens continue to receive royal jelly. In the absence of flavonoids and the presence of a high-protein diet, female bees grow into queens by developing the vigorous reproductive system[21] necessary to maintain a colony of tens of thousands of daughter workers.
+
+Periodically, the colony determines that a new queen is needed. There are three general causes:
+
+    The hive is filled with honey, leaving little room for new eggs. This will trigger a swarm, where the old queen will take about half the worker bees to establish a new colony, and leave a new queen with the other half of the workers to continue the old one.
+    The old queen begins to fail, which is thought to be demonstrated by a decrease in queen pheromones throughout the hive. This is known as supersedure, and at its end, the old queen is usually killed.
+    The old queen dies suddenly, a situation known as emergency supersedure. The worker bees find several eggs (or larvae) of the appropriate age range and feed them royal jelly to try to develop them into new queens.
+
+Emergency supersedure can generally be recognized because new queen cells are built out from comb cells, instead of hanging from the bottom of a frame. Regardless of the trigger, workers develop existing larvae into queens by continuing to feed them royal jelly, rather than switching them to bee bread, and by extending the selected larvae's cells to house the developing larger-bodied queens.
+See caption
+Peanut-like queen brood cells extend outward from the brood comb
+
+Queens are not raised in the typical horizontal brood cells of the honeycomb. A queen cell is larger and oriented vertically. If workers sense that an old queen is weakening, they produce emergency cells (known as supersedure cells) from cells with eggs or young larvae and which protrude from the comb. When the queen finishes her larval feeding and pupates, she moves into a head-downward position and later chews her way out of the cell. At pupation, workers cap (seal) the cell. The queen asserts control over the worker bees by releasing a complex suite of pheromones, known as queen scent.
+
+After several days of orientation in and around the hive, the young queen flies to a drone congregation area – a site near a clearing and generally about 30 feet (9.1 m) above the ground – where drones from different hives congregate. They detect the presence of a queen in their congregation area by her smell, find her by sight and mate with her in midair; drones can be induced to mate with "dummy" queens with the queen pheromone. A queen will mate multiple times, and may leave to mate several days in a row (weather permitting) until her spermatheca is full.
+
+The queen lays all the eggs in a healthy colony. The number and pace of egg-laying is controlled by weather, resource availability and specific racial characteristics. Queens generally begin to slow egg-laying in the early fall, and may stop during the winter. Egg-laying generally resumes in late winter when the days lengthen, peaking in the spring. At the height of the season, the queen may lay over 2,500 eggs per day (more than her body mass).
+
+She fertilizes each egg (with stored sperm from the spermatheca) as it is laid in a worker-sized cell. Eggs laid in drone-sized (larger) cells are left unfertilized; these unfertilized eggs, with half as many genes as queen or worker eggs, develop into drones.
+Workers
+
+Workers are females produced by the queen that develop from fertilized, diploid eggs. Workers are essential for social structure and proper colony functioning. They carry out the main tasks of the colony, because the queen is occupied solely with reproducing. These females raise their sister workers and future queens that eventually leave the nest to start their own colony. They also forage and return to the nest with nectar and pollen to feed the young, and defend the colony.
+Drones
+Top and bottom views of a developing pupa against a honeycomb
+Development of a drone pupa
+White and brown pupae filling cells
+Pupae of drones
+Main article: Drone (bee)
+
+Drones are the colony's male bees. Since they do not have ovipositors, they do not have stingers. Drone honey bees do not forage for nectar or pollen. The primary purpose of a drone is to fertilize a new queen. Many drones mate with a given queen in flight; each dies immediately after mating, since the process of insemination requires a lethally convulsive effort. Drone honey bees are haploid (single, unpaired chromosomes) in their genetic structure, and are descended only from their mother (the queen). In temperate regions, drones are generally expelled from the hive before winter, dying of cold and starvation since they cannot forage, produce honey or care for themselves. Given their larger size (1.5 times that of worker bees), inside the hive it is believed that drones may play a significant role in thermoregulation. Drones are typically located near the center of hive clusters for unclear reasons. It is postulated that it is to maintain sperm viability, which may be compromised at cooler temperatures. Another possible explanation is that a more central location allows drones to contribute to warmth, since at temperatures below 25 °C (77 °F) their ability to contribute declines.[22]
+----------------------
+
+## Queen–worker conflict
+
+Main article: Worker policing
+
+When a fertile female worker produces drones, a conflict arises between her interests and those of the queen. The worker shares one-half of her genes with the drone and one-quarter with her brothers, favouring her offspring over those of the queen. The queen shares one-half of her genes with her sons and one-quarter with the sons of fertile female workers.[23] This pits the worker against the queen and other workers, who try to maximize their reproductive fitness by rearing the offspring most related to them. This relationship leads to a phenomenon called "worker policing". In these rare situations, other worker bees in the hive, who are genetically more related to the queen's sons than those of the fertile workers, patrol the hive and remove worker-laid eggs.
+
+Another form of worker policing is aggression toward fertile females.[24] Some studies suggest a queen pheromone which may help workers distinguish worker-laid and queen-laid eggs, but others indicate egg viability as the key factor in eliciting the behavior.[25][26]
+
+Worker policing is an example of forced altruism, where the benefits of worker reproduction are minimized and that of rearing the queen's offspring maximized.
+
+In very rare instances, workers subvert the policing mechanisms of the hive, laying eggs faster than other workers remove them; this is known as anarchic syndrome. Anarchic workers can activate their ovaries at a higher rate and contribute a greater proportion of males to the hive. Although an increase in the number of drones decreases the overall productivity of the hive, it increases the reproductive fitness of the drones' mother. Anarchic syndrome is an example of selection working in opposite directions at the individual and group levels for the stability of the hive.[27]
+
+Under ordinary circumstances, if the queen dies or is removed, reproduction in workers increases because a significant proportion of workers then have activated ovaries. The workers produce a last batch of drones before the hive collapses. Although during this period worker policing is usually absent, in certain groups of bees it continues.[28]
+
+According to the strategy of kin selection, worker policing is not favored if a queen mates just once. In that case, workers are related by three-quarters of their genes, and the sons of workers are related more than usual to sons of the queen. Then the benefit of policing is negated. Experiments confirming this hypothesis have shown a correlation between higher mating rates and increased rates of worker policing in many species of social hymenoptera.[29]
+----------------------
+
+## Behavior
+Thermoregulation
+Foraging honey bee
+
+The western honey bee needs an internal body temperature of 35 °C (95 °F) to fly; this temperature is maintained in the nest to develop the brood, and is the optimal temperature for the creation of wax. The temperature on the periphery of the cluster varies with outside air temperature, and the winter cluster's internal temperature may be as low as 20–22 °C (68–72 °F).
+
+Western honey bees can forage over a 30 °C (86 °F) air-temperature range because of behavioral and physiological mechanisms for regulating the temperature of their flight muscles. From low to high air temperatures, the mechanisms are: shivering before flight and stopping flight for additional shivering, passive body-temperature regulation based on work, and evaporative cooling from regurgitated honey-sac contents. Body temperatures differ, depending on caste and expected foraging rewards.[30]
+
+The optimal air temperature for foraging is 22–25 °C (72–77 °F). During flight, the bee's relatively large flight muscles create heat which must be dissipated. The honey bee uses evaporative cooling to release heat through its mouth. Under hot conditions, heat from the thorax is dissipated through the head; the bee regurgitates a droplet of warm internal fluid — a "honeycrop droplet" – which reduces the temperature of its head by 10 °C (18 °F).[31]
+
+Below 7–10 °C (45–50 °F) bees are immobile, and above 38 °C (100 °F) their activity slows. Western honey bees can tolerate temperatures up to 50 °C (122 °F) for short periods.[citation needed]
+
+They lack the thermal defense exhibited by Apis cerana, but at least one subspecies, Apis mellifera cypria, is capable of killing invading hornets through asphyxiation, despite not being able to attain lethal temperatures.[32]
+Aging
+
+Apis mellifera honey bees with high amounts of flight experience exhibit increased DNA damage in flight muscle, as measured by elevated 8-Oxo-2'-deoxyguanosine, compared to bees with less flight experience.[33] This increased DNA damage is likely due to an imbalance of pro- and anti-oxidants during flight-associated oxidative stress. Flight induced oxidative DNA damage appears to hasten senescence and limit lifespan in A. mellifera.[33]
+Communication
+Main article: Bee learning and communication
+Bees completely covering the base of a fallen tree
+A large honey bee swarm on a fallen tree trunk
+
+Western honey bee behavior has been extensively studied. Karl von Frisch, who received the 1973 Nobel Prize in Physiology or Medicine for his study of honey bee communication, noticed that bees communicate with dance. Through these dances, bees communicate information regarding the distance, the situation, and the direction of a food source by the dances of the returning (honey bee) worker bee on the vertical comb of the hive.[34] Honey bees direct other bees to food sources with the round dance and the waggle dance. Although the round dance tells other foragers that food is within 50 metres (160 ft) of the hive, it provides insufficient information about direction. The waggle dance, which may be vertical or horizontal, provides more detail about the distance and direction of a food source. Foragers are also thought to rely on their olfactory sense to help locate a food source after they are directed by the dances.[citation needed]
+
+Western honey bees also change the precision of the waggle dance to indicate the type of site that is set as a new goal. Their close relatives, dwarf honey bees, do not.[35] Therefore, western honey bees seem to have evolved a better means of conveying information than their common ancestors with the dwarf honey bee.[36]
+
+Another means of communication is the shaking signal, also known as the jerking dance, vibration dance or vibration signal. Although the shaking signal is most common in worker communication, it also appears in reproductive swarming. A worker bee vibrates its body dorsoventrally while holding another bee with its front legs. Jacobus Biesmeijer, who examined shaking signals in a forager's life and the conditions leading to its performance, found that experienced foragers executed 92% of observed shaking signals and 64% of these signals were made after the discovery of a food source. About 71% of shaking signals occurred before the first five successful foraging flights of the day; other communication signals, such as the waggle dance, were performed more often after the first five successes. Biesmeijer demonstrated that most shakers are foragers and the shaking signal is most often executed by foraging bees on pre-foraging bees, concluding that it is a transfer message for several activities (or activity levels). Sometimes the signal increases activity, as when active bees shake inactive ones. At other times, such as the end of the day, the signal is an inhibitory mechanism. However, the shaking signal is preferentially directed towards inactive bees. All three forms of communication among honey bees are effective in foraging and task management.[citation needed]
+Pheromones
+Main article: Honey bee pheromones
+
+Pheromones (substances involved in chemical communication) are essential to honey bee survival. Western honey bees rely on pheromones for nearly all behaviors, including mating, alarm, defense, orientation, kin and colony recognition, food production and integrating colony activities.[37][38]
+
+The alarm pheromone has shown to be attractive to the small hive beetle. Therefore, there is a tradeoff between recruiting guards bees to defend the invaders and attract more beetles. The small hive beetle has a lower sensing threshold for the honeybee pheromone, which exacerbates the damage to honeybee hive.[39]
+Sociality
+
+There is some degree of variability of sociality between individuals.[40][41] Like a great many other social insects, A. mellifera engages in trophallaxis.[40][41] When the duration of trophallaxis pairings was measured, it was found that like human social interactions, there are durable long-term trends for each individual bee.[40][41] There is less inter-individual variation than found in humans however, possibly reflecting the higher genetic relatedness between hivemates.
+
+----------------------
+## Domestication
+A honey hunter in a cave painting at Cuevas de la Araña, Spain, c. 8,000–6,000 BC
+Bee hieroglyph from the tomb complex of Senusret I (d. 1,926 BC)
+Further information: Domestication
+
+Humans have been collecting honey from western honey bees for thousands of years, with evidence in the form of rock art found in France and Spain,[42] dating to around 7,000 BCE.[43] The western honey bee is one of the few invertebrate animals to have been domesticated. Bees were likely first domesticated in ancient Egypt, where tomb paintings depict beekeeping, before 2600 BC.[44] Europeans brought bees to North America in 1622.[45][46]
+
+Beekeepers have selected western honey bees for several desirable features:[45]
+
+    the ability of a colony to survive periods with little food[45]
+    the ability of a colony to survive cold weather[45]
+    resistance to disease[45]
+    increased honey production[45]
+    reduced aggressiveness[45]
+    reduced tendency to swarm[45]
+    reduced nest building[45]
+    easy pacification with smoke[45]
+
+These modifications, along with artificial change of location, have improved western honey bees from the point of view of the beekeeper, and simultaneously made them more dependent on beekeepers for their survival. In Europe, cold weather survival was likely selected for, consciously or not, while in Africa, selection probably favoured the ability to survive heat, drought, and heavy rain.[45]
+
+Authors do not agree on whether this degree of artificial selection constitutes genuine domestication. In 1603, John Guillim wrote "The Bee I may well reckon a domestic insect, being so pliable to the benefit of the keeper."[47] More recently, many biologists working on pollination take the domesticated status of western honey bees for granted.[48][49] For example, Rachael Winfree and colleagues write "We used crop pollination as a model system, and investigated whether the loss of a domesticated pollinator (the honey bee) could be compensated for by native, wild bee species."[50] Similarly, Brian Dennis and William Kemp write: "Although the domestication of the honey bee is closely connected to the evolution of food-based socio-economic systems in many cultures throughout the world, in current economic terms, and in the U.S. alone, the estimated wholesale value of honey, more than $317 million dollars in 2013, pales in comparison to aggregate estimated annual value of pollination services, variously valued at $11–15 billion."[51]
+
+On the other hand, P. R. Oxley and B. P. Oldroyd (2010) consider the domestication of western honey bees, at best, partial.[52] Oldroyd observes that the lack of full domestication is somewhat surprising, given that people have kept bees for at least 7,000 years. Instead, beekeepers have found ways to manage bees using hives, while the bees remain "largely unchanged from their wild cousins".[53]
+
+Leslie Bailey and B. V. Ball, in their book Honey Bee Pathology, call western honey bees "feral insects", in contrast to the domestic silk moth (Bombyx mori) which they call "the only insect that has been domesticated", and refer to the "popular belief among many biologists as well as beekeepers that bees are domesticated". They argue that western honey bees are able to survive without human help, and in fact require to "be left at liberty" to survive. Further, they argue that even if bees could be raised away from the wild, they would still have to fly freely to gather nectar and pollinate plants. Therefore, they argue, beekeeping is "the exploitation of colonies of a wild insect", with little more than the provision of a weatherproof cavity for them to nest in.[54] Likewise, Pilar de la Rua and colleagues argue that western honey bees are not fully domesticated, because "endemic subspecies-specific genetic footprints can still be identified in Europe and Africa", making conservation of wild bee diversity important. Further, they argue that the difficulty of controlling drones for mating is a serious handicap and a sign that domestication is not complete, in particular as "extensive gene flow usually occurs between wild/feral and managed honeybee populations".[55]
+----------------------
+## Beekeeping
+Main article: Beekeeping
+	
+This section needs additional citations for verification. Relevant discussion may be found on Talk:Western honey bee. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (March 2017) (Learn how and when to remove this message)
+Larger, solid-brown queen with striped workers
+Queen bee with workers
+
+The western honey bee is a colonial insect which is housed, transported by and sometimes fed by beekeepers. Honey bees do not survive and reproduce individually, but as part of the colony (a superorganism).
+
+Western honey bees collect flower nectar and convert it to honey, which is stored in the hive. The nectar, transported in the bees' stomachs, is converted with the addition of digestive enzymes and storage in a honey cell for partial dehydration. Nectar and honey provide the energy for the bees' flight muscles and for heating the hive during the winter. Western honey bees also collect pollen which, after being processed to bee bread, supplies protein and fat for the bee brood to grow. Centuries of selective breeding by humans have created western honey bees which produce far more honey than the colony needs, and beekeepers (also known as apiarists) harvest the surplus honey.
+Many honey bees on a comb
+Honey bees removed from the hive for inspection by a beekeeper
+
+Beekeepers provide a place for the colony to live and store honey. There are seven basic types of beehive: skeps, Langstroth hives, top-bar hives, box hives, log gums, D. E. hives, and miller hives.[14] All U.S. states require beekeepers to use movable frames to allow bee inspectors to check the brood for disease. This allows beekeepers to keep Langstroth, top-bar and D.E. hives without special permission, granted for purposes such as museum use. Modern hives also enable beekeepers to transport bees, moving from field to field as crops require pollinating (a source of income for beekeepers).
+
+In cold climates, some beekeepers have kept colonies alive (with varying degrees of success) by moving them indoors for winter. While this can protect the colonies from extremes of temperature and make winter care and feeding more convenient for the beekeeper, it increases the risk of dysentery and causes an excessive buildup of carbon dioxide from the bees' respiration. Inside wintering has been refined by Canadian beekeepers, who use large barns solely for the wintering of bees; automated ventilation systems assist in carbon dioxide dispersal.
+Products
+Western honey bee in a park in Tokyo
+Beehives beside a field
+Beehives set up for pollination
+Duration: 54 seconds.0:54
+Video of western honey bee collecting pollen from blue crocuses
+Bee in flight, carrying pollen in a yellow container large for its size
+Western honey bee carrying pollen in a basket back to the hive
+Honey bees
+
+Honey bees are one of the products of a beehive. They can be purchased as mated queens, in spring packages of a queen along with two to five pounds (0.91 to 2.27 kg) of honey bees, as nucleus colonies (which include frames of brood), or as full colonies. Commerce of western honey bees dates back to as early as 1622, when the first colonies of bees were shipped from England to Virginia. Modern methods of producing queens and dividing colonies for increase date back to the late 1800s. Honey was extracted by killing off the hive, and bees and bee products were mainly an object of local trade. The first commercial beekeeper in the United States is considered Moses Quinby of New York, who experimented with movable box hives, which allow extraction without killing the hive. The improvements in roads and motor vehicles after World War I allowed commercial beekeepers to expand the size of their businesses.[56]
+Pollination
+Western honey bee pollinating a flower
+Main articles: Pollination management and List of crop plants pollinated by bees
+
+The western honey bee is an important pollinator of crops; this service accounts for much of the species' commercial value. In 2005, the estimated commercial value of western honey bees was just under $200 billion worldwide.[57] A large number of the crop species farmed worldwide depend on it.[58] Although orchards and fields have increased in size, wild pollinators have dwindled. In a number of regions the pollination shortage is addressed by migratory beekeepers, who supply hives during a crop bloom and move them after the blooming period. Commercial beekeepers plan their movements and wintering locations according to anticipated pollination services. At higher latitudes it is difficult (or impossible) to overwinter sufficient bees, or to have them ready for early blooming plants. Much migration is seasonal, with hives wintering in warmer climates and moving to follow the bloom at higher latitudes.
+
+In California, almond pollination occurs in February, early in the growing season before local hives have built up their populations. Almond orchards require two hives per acre, or 2,000 m2 (22,000 sq ft) per hive, for maximum yield, and pollination is dependent on the importation of hives from warmer climates. Almond pollination (in February and March in the U.S.) is the largest managed pollination event in the world, requiring more than one-third of all managed honey bees in the country. Bees are also moved en masse for pollination of apples in New York, Michigan, and Washington. Despite honey bees' inefficiency as blueberry pollinators,[59] large numbers are moved to Maine because they are the only pollinators who can be easily moved and concentrated for this and other monoculture crops. Bees and other insects maintain flower constancy by transferring pollen to other biologically specific plants;[60] this prevents flower stigmas from being clogged with pollen from other species.[61] In 2000, Drs. Roger Morse and Nicholas Calderone of Cornell University attempted to quantify the effects of the western honey bee on American food crops. Their calculations came up with a figure of US$14.6 billion in food crop value.[62]
+Honey
+Main article: Honey
+
+Honey is the complex substance made from nectar and sweet deposits from plants and trees, which are gathered, modified and stored in the comb by honey bees.[63] Honey is a biological mixture of inverted sugars, primarily glucose and fructose. It has antibacterial and anti-fungal properties. Honey from the western honey bee, along with the bee Tetragonisca angustula, has specific antibacterial activity towards an infection-causing bacteria, Staphylococcus aureus.[64][65] Honey will not rot or ferment when stored under normal conditions, but it will crystallize over time. Although crystallized honey is acceptable for human use, bees can only use liquid honey and will remove and discard any crystallized honey from the hive.
+Western honey bee with its proboscis partially extended
+Western honey bee on a honeycomb
+
+Bees produce honey by collecting nectar, a clear liquid consisting of nearly 80 percent water and complex sugars. The collecting bees store the nectar in a second stomach and return to the hive, where worker bees remove the nectar. The worker bees digest the raw nectar for about 30 minutes, using digestive enzymes to break down the complex sugars into simpler ones. Raw honey is then spread in empty honeycomb cells to dry, reducing its water content to less than 20 percent. When nectar is being processed, honey bees create a draft through the hive by fanning with their wings. When the honey has dried, the honeycomb cells are sealed (capped) with wax to preserve it.
+Beeswax
+Main article: Beeswax
+
+Mature worker bees secrete beeswax from glands on their abdomen, using it to form the walls and caps of the comb.[66] When honey is harvested, the wax can be collected for use in products like candles and seals.
+Bee bread
+Further information: Bee pollen
+
+Bees collect pollen in a pollen basket and carry it back to the hive where, after undergoing fermentation and turning into bee bread, it becomes a protein source for brood-rearing.[67] Excess pollen can be collected from the hive; although it is sometimes consumed as a dietary supplement by humans, bee pollen may cause an allergic reaction in susceptible individuals.
+Bee brood
+Main article: Bee brood § As food
+
+Bee brood, the eggs, larvae, or pupae of honey bees, is edible and highly nutritious. Bee brood contains the same amount of protein that beef or poultry does. Bee brood is often harvested as a byproduct when the beekeeper has excess bees and does not wish to have any more.
+Propolis
+Main article: Propolis
+
+Propolis is a resinous mixture collected by honey bees from tree buds, sap flows or other botanical sources, which is used as a sealant for unwanted open spaces in the hive.[68] Although propolis is alleged to have health benefits (tincture of propolis is marketed as a cold and flu remedy), it may cause severe allergic reactions in some individuals.[69] Propolis is also used in wood finishes, and gives a Stradivarius violin its unique red color.[70]
+Royal jelly
+Main article: Royal jelly
+
+Royal jelly is a honey bee secretion used to nourish the larvae and queen.[71] It is marketed for its alleged but unsupported claims of health benefits.[72][73] On the other hand, it may cause severe allergic reactions in some individuals.[74]
+
+----------------------
+## Genome
+See also: Honey Bee Genome Sequencing Consortium and List of Apis mellifera subspecies
+Further information: DNA methylation
+
+Female bees are diploid and have 32 chromosomes, whereas males are haploid and have only 16.
+
+As of October 28, 2006, the Honey Bee Genome Sequencing Consortium fully sequenced and analyzed the genome of Apis mellifera, the western honey bee. Since 2007, attention has been devoted to colony collapse disorder, a decline in western honey bee colonies in a number of regions.
+
+The western honey bee is the third insect, after the fruit fly and the mosquito, whose genome has been mapped. According to scientists who analyzed its genetic code, the honey bee originated in Africa and spread to Europe in two ancient migrations.[9] Scientists have found that genes related to smell outnumber those for taste, and the European honey bee has fewer genes regulating immunity than the fruit fly and the mosquito.[75] The genome sequence also revealed that several groups of genes, particularly those related to circadian rhythm, resembled those of vertebrates more than other insects. Another significant finding from the honey bee genome study was that the western honey bee was the first insect to be discovered with a functional DNA methylation system since functional key enzymes (DNA methyltransferase-1 and -3) were identified in the genome. DNA methylation is one of the important mechanisms in epigenetics to study gene expression and regulation without changing the DNA sequence, but modifications on DNA activity.[76] DNA methylation later was identified to play an important role in gene regulation and gene splicing.[77] The genome is unusual in having few transposable elements, although they were present in the evolutionary past (remains and fossils have been found) and evolved more slowly than those in fly species.[75]
+
+Since 2018 a new version of the honey bee genome is available on NCBI (Amel_HAv3.1, BioProject ID: PRJNA471592).[78] This assembly contains full chromosome length scaffolds, which means that the sequence data for each chromosome is contiguous, and not split between multiple pieces called scaffolds. The existence of a highly contiguous reference genome for a species enables more detailed investigations of evolutionary processes that affect the genome as well as more accurate estimations of for example differentiation between populations and diversity within populations.
+
+An important process that shapes the honey bee genome is meiotic recombination, the rate of which is strongly elevated in honey bees and other social insects of the Hymenoptera order compared to most other eukaryotic species except fungi and protozoa.[79] The reason for elevated recombination rates in social Hymenoptera is not fully understood, but one theory is that it is related to their social behaviour. The increased genetic diversity resulting from high recombination rates could make the workers less vulnerable to parasites and facilitate their specialisations to different tasks in the colony.[79]
+----------------------
+## Hazards and survival
+Parasites, diseases and pesticides
+Dead Cape honey bees (Apis mellifera capensis) piled up outside the entrance of a hive.
+
+Western honey bee populations face threats to their survival increasing interests into other pollinator species, like the common eastern bumblebee.[80] North American and European populations were severely depleted by Varroa mite infestations during the early 1990s, and U.S. beekeepers were further affected by colony collapse disorder in 2006 and 2007.[81] Some subspecies of Apis mellifera show naturally varroa sensitive hygiene, for example Apis mellifera lamarckii[82] and Apis mellifera carnica.[83] Improved cultural practices and chemical treatments against Varroa mites saved most commercial operations; new bee breeds are beginning to reduce beekeeper dependence on acaricides. Feral bee populations were greatly reduced during this period; they are slowly recovering, primarily in mild climates, due to natural selection for Varroa resistance and repopulation by resistant breeds. Although it is generally believed that insecticides have also depleted bee populations, particularly when used in excess of label directions, as bee pests and diseases (including American foulbrood and tracheal mites) are becoming resistant to medications, research in this regard has not been conclusive. A 2012 study of the effect of neonicotinoid-based insecticides showed "no effects observed in field studies at field-realistic dosages."[84] A new study in 2020 found that neonicotinoid insecticides affected the developmental stability of honey bees, particularly haploid males were more susceptible to neonicotinoids than diploid females.[85] The 2020 study also found that heterozygosity may play a key role in buffering insecticide exposure.[85]
+Milkweed
+A dead honey bee on a milkweed flower
+
+In North America, various native milkweed species may be found with dead western honey bees stuck to their flowers. The non-native western honey bees are attracted to the flowers but are not adapted to their pollination mechanisms. The milkweed pollinium is collected when the tarsus (foot) of an insect falls into one of the flower's stigmatic slits as it obtains nectar from the flower's hood. If the insect is unable to remove its tarsus from the stigmatic slit it is likely to die due to predation or starvation/exhaustion. If the insect is able to escape with damaged or missing tarsi it may also be likely to die from its injuries. Western honey bees which escape with their tarsi intact may have their nectar gathering ability obstructed by parts of the pollinia being stuck to the bee's proboscis, resulting in starvation. The pollinia may also stick to the bee's tarsal claws, causing a lack of climbing ability and honey gathering which may result in expulsion from the colony leading to death. Native butterflies, moths, flies, beetles, bees and wasps are common milkweed visitors which are often able to escape without issue, though some species of Megachile, Halictus, Astata, Lucilia, Trichius, Pamphila and Scepsis have been found dead on the flowers. After removing over 140 dead bees from a patch of A. sullivantii, entomologist Charles Robertson quipped "... it seems that the flowers are better adapted to kill hive-bees than to produce fruit through their aid."[86]
+Predators
+
+Insect predators of western honey bees include the Asian giant hornet and other wasps, robber flies, dragonflies such as the green darner, some mantises, water striders and the European beewolf.
+
+Arachnid predators of western honey bees include fishing spiders, lynx spiders, goldenrod spiders[87] and St. Andrew's cross spiders.
+
+Reptile and amphibian predators of western honey bees include the black girdled lizard, anoles, and other lizards, and various anuran amphibians including the American toad, the American bullfrog and the wood frog.
+
+Specialist bird predators of western honey bees include the bee-eaters; other birds that may take western honey bees include grackles, hummingbirds, tyrant flycatchers and the summer tanager. Most birds that eat bees do so opportunistically; however, summer tanagers will sit on a limb and catch dozens of bees from the hive entrance as they emerge.[88]
+
+Mammals that sometimes take western honey bees include giant armadillos, [89] opossums, raccoons, skunks, the North American least shrew and the honey badger.
+----------------------
+
+## Immune mechanisms
+Innate immune mechanisms
+
+Humoral and cellular immune mechanisms of western honey bees are similar to those of other insects. Trans-generational immune priming (TGIP) is an approach that insects use to pass specific immunity from one generation to the next. The offspring are more likely to overcome pathogens that their parents have encountered. TGIP resembles adaptive immune responses but with different underlying mechanisms. TGIP against Paenibacillus larvae, which causes American foulbrood, has been demonstrated. The egg-yolk protein Vitellogenin (Vg) plays an important role in TGIP in honey bees, as it participates in the information transmitted between queen and offspring.[5] Immune elicitors such as fragments or microbes are considered pathogen-associated molecular patterns (PAMPs). Vg can bind and deliver PAMPs to offspring and thereafter lead to the induction of immunity-related genes.[7] In laboratory experiments, injecting heat-killed P. larvae into honey bee queens can prevent 26% of death in their offspring.[10] Offspring produced by queens orally vaccinated in this way were 30%–50% more likely to survive infection. Immune priming in queens triples differentiated hemocytes in their offspring.[11]
+Social immune mechanisms
+Grooming
+
+The behavior of bees using their legs and mandibles to remove parasites like mites and dust-like materials from their bodies is referred to as grooming. Grooming includes self-grooming (auto-grooming) and inter-grooming (allo-grooming) between nest mates.[12] Self-grooming involves pulling on antennae, rubbing the head with the forelegs, and rubbing the thorax or abdomen with the middle or hind legs. Inter-grooming is a colony-level behavior, and individuals within the colony gain benefits from their nest mates in this manner. By exhibiting a grooming dance, other nest mates are attracted and assist to remove parasites via stroking with antennae or legs and licking. Grooming limits ectoparasite load within colonies, especially eliminating Varroa mites.[13][15]
+Hygienic behavior
+
+Hygienic behavior targeting brood cells consists of three main steps: detection, uncapping and removal. Adults are able to identify the distinct odors associated with healthy or unhealthy broods and subsequently remove the unhealthy ones from the hive. Hygienic behavior effectively responds to Varroa mites, the fungus Ascosphaera apis which causes chalkbrood diseases, and the P. larvae.[17] Freeze-killed brood assay is a simple strategies to assess the hygienic behavior of honey bee colonies.[16]
+
+----------------------
+## As an environmental threat
+
+Some entomologists have observed that non-native, feral western honey bees can have negative impacts within their non-native environment. Imported bees may displace native bees, and may also promote reproduction of invasive plants ignored by native pollinators.[90]
+
+Honey bees are not native to the Americas, arriving with colonists in North America in the 18th century. Thomas Jefferson mentioned this in his Notes on the State of Virginia:
+
+    The honey-bee is not a native of our continent. Marcgrave indeed mentions a species of honey-bee in Brasil. But this has no sting, and is therefore different from the one we have, which resembles perfectly that of Europe. The Indians concur with us in the tradition that it was brought from Europe; but, when, and by whom, we know not. The bees have generally extended themselves into the country, a little in advance of the white settlers. The Indians therefore call them the white man's fly, and consider their approach as indicating the approach of the settlements of the whites.[91]
+
+Sources may claim that honey bees (Apis mellifera) have become an invasive species in the United States, outcompeting native pollinators for food.[92] However, while the USDA lists Africanized honeybees (Apis mellifera scutellata) as an invasive species, it does not classify western honey bees as invasive.[93]
+
+With an increased number of honey bees in a specific area due to beekeeping, domesticated bees and native wild bees often have to compete for the limited habitat and food sources available.[94] Western honey bees may become defensive in response to the seasonal arrival of competition from other colonies, particularly Africanized bees which may be on the offence and defence year round due to their tropical origin.[95] In the United Kingdom, honey bees are known to compete with native bumblebees such as Bombus hortorum, because they forage at the same sites. To resolve the issue and maximize both their total consumption during foraging, bumblebees forage early in the morning, while honey bees forage during the afternoon.[96]
+
+A 2017 systematic review looked at the impacts of managed bees on wild bee populations. In addition to honey bees, this includes bumble bees and some solitary bees. The analysis looked at resource competition and changes in plant communities. It also discussed how managed bees may interact with wild bees by transmitting pathogens. It found an equal number of studies reporting both positive and negative effects on plant communities. Studies examining resource competition had significant variability in their results while most studies on pathogen transmission pointed to potentially detrimental impacts. The researchers noted that most studies documented the possibility of certain interactions without actually measuring the direct effects.[97]
+
+The very generalized nature of the honey bee's nectar-gathering activities, potentially visiting dozens of different species in a single day, means that a flower visited by a honey bee will often get very little pollen from its species. This diminished pollination can reduce the plant's ability to produce seeds, especially when the honey bees are squeezing out the native pollinators for a species, a problem occurring all over the United States because of honey bees and other invasive species.[citation needed]
+
+Most flowering plants depend on specialized pollinators to efficiently fertilize them. Cucurbits, for example, are pollinated by squash bees that specifically visit the early-blooming male flowers before sunrise, when honey bees are inactive, and then return to pollinate the female flowers later in the day. Such symbiotic relationships also mean that the specialized pollinator will be covered mainly in its host's specific pollen.[citation needed] Unlike native bees, they do not properly extract or transfer pollen from plants with pore anthers (anthers which only release pollen through tiny apical pores); this requires buzz pollination, a behavior rarely exhibited by honey bees. Honey bees reduce fruiting in Melastoma affine, a plant with pore anthers, by robbing its stigmas of previously deposited pollen.[98]
+Close relatives
+
+Apart from Apis mellifera, there are six other species in the genus Apis. These are Apis andreniformis, Apis cerana, Apis dorsata, Apis florea, Apis koschevnikovi, and Apis nigrocincta.[99] These species all originated in southern and southeastern Asia. Only Apis mellifera is thought to have originated in Europe, Asia, and Africa.[100] 

@@ -1,0 +1,66 @@
+## Stingless bee
+
+Stingless bees (SB), sometimes called stingless honey bees or simply meliponines, are a large group of bees (from about 462 to 552 described species),[1][2] comprising the tribe Meliponini[3][4] (or subtribe Meliponina according to other authors).[5] They belong in the family Apidae (subfamily Apinae), and are closely related to common honey bees (HB, tribe Apini), orchid bees (tribe Euglossini), and bumblebees (tribe Bombini). These four bee tribes belong to the corbiculate bees monophyletic group.[6][7] Meliponines have stingers, but they are highly reduced and cannot be used for defense, though these bees exhibit other defensive behaviors and mechanisms.[8][9] Meliponines are not the only type of bee incapable of stinging: all male bees and many female bees of several other families, such as Andrenidae and Megachilidae (tribe Dioxyini), also cannot sting.[10]
+
+Some stingless bees have powerful mandibles and can inflict painful bites.[11][12] Some species can present large mandibular glands for the secretion of caustic defense substances, secrete unpleasant smells or use sticky materials to immobilise enemies.[13][14]
+
+The main honey-producing bees of this group generally belong to the genera Scaptotrigona, Tetragonisca, Melipona and Austroplebeia, although there are other genera containing species that produce some usable honey. They are farmed in meliponiculture in the same way that European honey bees (genus Apis) are cultivated in apiculture.
+
+Throughout Mesoamerica, the Mayans have engaged in extensive meliponiculture on a large scale since before the arrival of Columbus. Meliponiculture played a significant role in Maya society, influencing their social, economic, and religious activities. The practice of maintaining stingless bees in man-made structures is prevalent across the Americas, with notable instances in countries such as Brazil, Peru, and Mexico.[15][16]
+
+----------------------
+
+## Geographical distribution
+
+
+
+Stingless bees can be found in most tropical or subtropical regions of the world, such as the African continent (Afrotropical region), Southeast Asia and Australia (Indo-Malayan and Australasian region), and tropical America (Neotropical region).[17][18][19][20]
+
+The majority of native eusocial bees of Central and South America are SB, although only a few of them produce honey on a scale such that they are farmed by humans.[21][22] The Neotropics, with approximately 426 species, boast the highest abundance and species richness, ranging from Cuba and Mexico in the north to Argentina in the south.[18]
+
+They are also quite diverse in Africa, including Madagascar,[23] and are farmed there also. Around 36 species exist on the continent. The equatorial regions harbor the greatest diversity, with the Sahara Desert acting as a natural barrier to the north. The range extends southward to South Africa and southern Madagascar, with most African species inhabiting tropical forests or both tropical forests and savannahs.[18]
+
+Meliponine honey is prized as a medicine in many African communities, as well as in South America. Some cultures use SB honey against digestive, respiratory, ocular and reproductive problems, although more research is needed to disclose evidence that supports these practices.[9][24][25]
+
+In Asia and Australia, approximately 90 species of stingless bees span from India in the west to the Solomon Islands in the east, and from Nepal, China (Yunnan, Hainan), and Taiwan in the north to Australia in the south.
+Geographic distribution of stingless bees.
+
+----------------------
+
+## Origin and dispersion
+
+
+
+Phylogenetic analyses reveal three distinct groups in the evolutionary history of Meliponini: the Afrotropical, the Indo-Malay/Australasia, and the Neotropical lineages. The evolutionary origin of the Meliponini is Neotropical. Studies observing contemporary species richness show that it remains highest in the Neotropics.[26]
+
+The hypothesis proposes the potential dispersion of stingless bees from what is now North America. According to this scenario, these bees would have then traveled to Asia by crossing the Bering Strait (Beringia route) and reached Europe through Greenland (Thulean route).[27][26][28][29]
+
+----------------------
+
+## Behaviour, biology and ecology
+
+
+
+Meliponines, considered highly eusocial insects, exhibit a remarkable caste division. The colonies typically consist of a queen, workers, and sometimes male drones.[30] The queen is responsible for reproduction, while the workers perform various tasks such as foraging, nursing, and defending the colony. Individuals work together with a well-defined division of labor for the overall benefit.[31]
+
+Stingless bees are valuable pollinators and contribute to ecosystem health by producing essential products. These insects collect and store honey, pollen, resin, propolis, and cerumen. Honey serves as their primary carbohydrate source, while pollen provides essential proteins. Resin, propolis, and cerumen are used in nest construction and maintenance.[32][33]
+
+Nesting behavior varies among species and may involve hollow tree trunks, external hives, the soil, termite nest or even urban structures. This adaptability underscores their resilience and ability to coexist with human activities.[34]
+
+In a SB colony, workers constitute the predominant segment of the population, serving as the colony's primary workforce. They undertake a multitude of responsibilities crucial for the colony's well-being, including defense, cleaning, handling building materials, and the collection and processing of food. Recognizable by the corbicula - a distinctive structure on their hind legs resembling a small basket - workers efficiently carry pollen, resin, clay, and other materials gathered from the environment. Given their abundance and unique physical feature, workers play a central role in sustaining the colony.[35][36][37]
+
+The principal egg layer in SB colonies is the queen, distinguished from the workers by differences in both size and shape. Stingless bee queens - except in the case of the Melipona genus, where queens and workers receive similar amounts of food and thus exhibit similar sizes - are generally larger and weigh more than workers (approximately 2–6 times). Post-mating, meliponine queens undergo physogastry, developing a distended abdomen. This physical transformation sets them apart from honey bee queens, and even Melipona queens can be easily identified by their enlarged abdomen after mating.[30][38][39]
+
+Stingless bee colonies typically follow a monogynous structure, featuring a single egg-laying queen. An exception is noted in Melipona bicolor colonies, which are often polygynous (large populations may have as many as 5 physogastric queens simultaneously involved in oviposition).[39][31][40] Depending on the species, queens can lay varying quantities of eggs daily, ranging from a dozen (e.g., Plebeia julianii) to several hundred (e.g., Trigona recursa). While information on queen lifespans is limited, available data suggest that queens generally outlive workers, with lifespans usually falling between 1 and 3 years, although some queens may live up to 7 years.[39][40]
+
+The laying queen assumes the crucial role of producing eggs that give rise to all castes within the colony. Additionally, she plays a pivotal role in organizing the colony, overseeing a complex communication system primarily reliant on the use of pheromones.[38]
+
+The primary function of males, or drones, is to mate with queens, performing limited tasks within the nest and leaving at around 2–3 weeks old, never to return. The production of males can vary, occurring continuously, sparsely or in large spurts when numerous drones emerge from brood combs for brief periods. Identifying a male can be challenging due to its similar body size to workers, but distinctive features such as the absence of a corbicula, larger eyes, slightly smaller mandibles, slightly longer and v-shaped antennae, and often a lighter face color distinguish them. Clusters of males, numbering in the hundreds, can be observed outside colonies, awaiting the opportunity to mate with virgin queens.[36][41][42]
+
+Males in a stingless bee colony, either produced mainly by the laying queen or primarily by the workers, play an important role in reproduction. Workers can produce males by laying unfertilized eggs, enabled by the haplodiploidy system, where males are haploid, having only one set of chromosomes, while workers are diploid and incapable of producing female eggs due to their inability to mate. This sex determination system is common to all hymenopterans.[43]
+
+While the existence of a soldier caste is well known in ants and termites, the phenomenon was unknown among bees until 2012, when some stingless bees were found to have a similar caste of defensive specialists that help guard the nest entrance against intruders.[44] To date, at least 10 species have been documented to possess such "soldiers", including Tetragonisca angustula, T. fiebrigi, and Frieseomelitta longipes, with the guards not only larger, but also sometimes a different color from ordinary workers.[45][46]
+
+When the young worker bees emerge from their cells, they tend to initially remain inside the hive, performing different jobs. As workers age, they become guards or foragers. Unlike the larvae of honey bees and many social wasps, meliponine larvae are not actively fed by adults (progressive provisioning). Pollen and nectar are placed in a cell, within which an egg is laid, and the cell is sealed until the adult bee emerges after pupation (mass provisioning).
+
+At any one time, hives can contain from 300 to more than 100,000 workers (with some authors claiming to calculate more than 150,000 workers, but with no methodology explanation), depending on species.
