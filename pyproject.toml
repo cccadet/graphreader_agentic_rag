@@ -1,9 +1,10 @@
 [tool.poetry]
 name = "graphreader_agentic_rag"
-version = "0.1.0"
+version = "0.1.1"
 description = "Graphreader Implementation"
 authors = ["Cristian C dos Santos <perestra.ccds@gmail.com>"]
 readme = "README.md"
+repository = "https://github.com/cccadet/graphreader_agentic_rag"
 
 [tool.poetry.dependencies]
 python = "^3.12"

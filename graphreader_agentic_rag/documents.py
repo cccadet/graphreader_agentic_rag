@@ -34,7 +34,10 @@ MERGE (a)-[:HAS_KEY_ELEMENT]->(k)
 
 
 class Importer:
-    
+    """
+    The Importer class is responsible for importing documents into a Neo4j graph database.
+    It splits the document into chunks and atomic facts, and then imports them into the graph.
+    """
     def __init__(self):
         self.graph = Neo4jGraph(refresh_schema=False)
 
@@ -45,6 +48,19 @@ class Importer:
 
     # Paper used 2k token size
     async def process_document(self, text, document_name, chunk_size=2000, chunk_overlap=200, separator=[]):
+        """
+        Processes a document by splitting it into chunks and importing them into the graph.
+
+        Args:
+            text (str): The full text of the document.
+            document_name (str): The name of the document.
+            chunk_size (int, optional): The size of each chunk. Defaults to 2000.
+            chunk_overlap (int, optional): The overlap between chunks. Defaults to 200.
+            separator (list, optional): A list of separators for recursive text splitting. Defaults to [].
+
+        Returns:
+            None
+        """
         start = datetime.now()
         print(f"Started extraction at: {start}")
 
@@ -52,7 +68,6 @@ class Importer:
             text_splitter = TokenTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
         else:
             text_splitter = RecursiveCharacterTextSplitter(
-                # Set a really small chunk size, just to show.
                 separators=separator,
                 chunk_size=100,
                 chunk_overlap=0,
@@ -91,7 +106,18 @@ class Importer:
     
 
 
-    async def process_single_file(self, filepath: str, filename: str, separator = []) -> None:
+    async def process_single_file(self, filepath: str, filename: str, separator=[]):
+        """
+        Processes a single file by reading its content and calling process_document.
+
+        Args:
+            filepath (str): The path to the directory containing the files.
+            filename (str): The name of the file to process.
+            separator (list, optional): A list of separators for recursive text splitting. Defaults to [].
+
+        Returns:
+            None
+        """
         try:
             with open(os.path.join(filepath, filename), "r") as file:
                 text = file.read()
@@ -101,7 +127,17 @@ class Importer:
         except Exception as e:
             print(f"Error processing {filename}: {str(e)}")
 
-    async def process_all_files(self, filepath: str, separator = []) -> None:
+    async def process_all_files(self, filepath: str, separator=[]):
+        """
+        Processes all files in a directory.
+
+        Args:
+            filepath (str): The path to the directory containing the files.
+            separator (list, optional): A list of separators for recursive text splitting. Defaults to [].
+
+        Returns:
+            None
+        """
         files = os.listdir(filepath)
         tasks: List[asyncio.Task] = []
         
@@ -110,5 +146,4 @@ class Importer:
             tasks.append(task)
         
         await asyncio.gather(*tasks)
-
 
